@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Yuriy</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="25"/></h1>
 <h3 align="center">Junior java developer from Russia 🇷🇺</h3>
 <h3 align="center"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" height="32"</h3>
 <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" height="32"</h3>
