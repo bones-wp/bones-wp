@@ -9,4 +9,4 @@
 <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white" height="32"</h3>
 <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white" height="32"</h3>
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=j-thrash)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=j-thrash&theme=solarized_dark)
