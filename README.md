@@ -9,6 +9,6 @@
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" height="32"</h3>
 <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white" height="32"</h3>
 <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white" height="32"</h3>
+<img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" height="32"</h3>
   
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bones-wp) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bones-wp)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bones-wp)](https://github.com/anuraghazra/github-readme-stats)
